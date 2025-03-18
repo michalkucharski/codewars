@@ -1,1 +1,1 @@
-THese are some tasks, that was created in codewars 
+These are some tasks, that were created in codewars. 
